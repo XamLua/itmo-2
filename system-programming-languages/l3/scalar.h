@@ -1,0 +1,1 @@
+int scalar_mul(const int* a, const int* b, size_t length);
